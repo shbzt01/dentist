@@ -1,0 +1,44 @@
+[
+  {
+    "name": "choose-name",
+    "path": "/choose-name",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\choose-name.vue",
+    "chunkName": "pages/choose-name",
+    "_name": "_5f1fd20e"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_4634ee5c"
+  },
+  {
+    "name": "show-data",
+    "path": "/show-data",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\show-data.vue",
+    "chunkName": "pages/show-data",
+    "_name": "_297b8b1c"
+  },
+  {
+    "name": "upload",
+    "path": "/upload",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\upload.vue",
+    "chunkName": "pages/upload",
+    "_name": "_0ca8ebb9"
+  },
+  {
+    "name": "upload-files",
+    "path": "/upload-files",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\upload-files.vue",
+    "chunkName": "pages/upload-files",
+    "_name": "_e1414f3a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\laragon\\\\www\\\\dentist\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6d951aca"
+  }
+]
