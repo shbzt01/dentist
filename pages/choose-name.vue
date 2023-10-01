@@ -77,8 +77,8 @@ export default {
         lingual: "",
         mesial: "",
         distal: "",
+        top_view: "",
       },
-      top: "",
     };
   },
 };

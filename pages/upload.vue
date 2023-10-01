@@ -16,7 +16,7 @@
         <FileInput label="Lingual" v-model="files.lingual" />
         <FileInput label="Mesial" v-model="files.mesial" />
         <FileInput label="Distal" v-model="files.distal" />
-        <FileInput label="Top" v-model="files.top" />
+        <FileInput label="Top" v-model="files.top_view" />
         <br />
         <br />
       </center>
@@ -57,7 +57,7 @@ export default {
         lingual: "",
         mesial: "",
         distal: "",
-        top: "",
+        top_view: "",
       },
     };
   },
